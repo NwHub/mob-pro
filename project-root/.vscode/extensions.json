@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "coenraads.bracket-pair-colorizer-2",
+    "pranaygp.vscode-css-peek",
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "ecmel.vscode-html-css",
+    "xabikos.javascriptsnippets",
+    "christian-kohler.path-intellisense",
+    "octref.vetur",
+    "hollowtree.vue-snippets",
+    "titiaiev.vue-docs",
+    "dariofuzinato.vue-peek",
+    "mrmlnc.vscode-duplicate",
+    "oderwat.indent-rainbow",
+  ]
+}
