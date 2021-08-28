@@ -2,8 +2,7 @@
 
 ## 計画の進め方
 
-骨子は考えますが、細かいところはみんなで考えてられればと思っています。  
-具体的には疑問・質問・懸念などを[Issue](https://github.com/NwHub/mob-pro/issues)に上げてください。  
+疑問・質問・懸念などを[Issue](https://github.com/NwHub/mob-pro/issues)に上げてください。  
 練習も兼ねているので、どんな初歩的な質問でも構いません。
 
 気兼ねなく、Issue を作ってください。
